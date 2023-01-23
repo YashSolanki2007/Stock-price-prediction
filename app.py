@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from yahoo_fin import stock_info as si
+from yahoo_finance import stock_info as si
 import matplotlib.pyplot as plt
 import mpld3
 import streamlit.components.v1 as components
